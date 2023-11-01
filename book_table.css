@@ -1,0 +1,14 @@
+
+body{
+    background-color: rgba(253, 223, 166, 0.74) ;
+    background-repeat: no-repeat;
+}
+h1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+
+.section-title ff-secondary text-center text-primary fw-normal{
+    font-size: 4rem;
+}
